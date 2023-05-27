@@ -17,7 +17,7 @@ Hoping to help new developers to build on BOS platform and start to structure fu
 - ✅ Switch Metadata URI,Contract Payment,Setnew costs, Set fundation wallet, Adding Structures of new permited payable wallets.
 - ✅ Payday function that gives to foundation wallet a 30% of stored eth and 70% divided in same slices to differents permited wallets.
 
-## This BOS Render Demo covers the next points::
+## This BOS Render Demo covers the next points(freemintlimit.js):
 - ✅ Widget deployed at https://bos.gg/#/mcbyte.near/widget/Minter_Rescatarte
 - ✅ Contract Functions Reader
 - ✅ Button that allow free mint (x2 nfts max) per wallet
