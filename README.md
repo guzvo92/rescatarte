@@ -27,6 +27,9 @@ Hoping to help new developers to build on BOS platform and start to structure fu
 !!Important
 Remember that u can claim your free 50 transactions on aurora network at https://aurora.plus/dashboard, u will need it even for a freemint of this collection.
 
+## LIVE DEMO
+https://youtu.be/OirAdfHw9-I
+
 Be free of fork this code if works for u.
-Any comments can write to guzvo92@gmail.com or Twitter: Mcbyte_
+Any comments can write to guzvo92@gmail.com or Twitter: https://twitter.com/Mcbyte_
 
